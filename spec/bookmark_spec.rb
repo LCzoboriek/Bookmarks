@@ -51,4 +51,3 @@ end
       expect(updated_bookmark.url).to eq 'http://www.google.com'
     end
   end
-  
